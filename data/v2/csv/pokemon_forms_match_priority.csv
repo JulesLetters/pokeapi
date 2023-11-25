@@ -1009,6 +1009,13 @@ id,identifier,form_identifier,match_priority
 1008,miraidon-ultimate-mode,ultimate-mode,6
 1009,walking-wake,,
 1010,iron-leaves,,
+1011,dipplin,,
+1012,poltchageist,,
+1013,sinistcha,,
+1014,okidogi,,
+1015,munkidori,,
+1016,fezandipiti,,
+1017,ogerpon,,
 10001,unown-b,b,5
 10002,unown-c,c,5
 10003,unown-d,d,5
@@ -1449,3 +1456,7 @@ id,identifier,form_identifier,match_priority
 10438,miraidon-drive-mode,drive-mode,6
 10439,miraidon-aquatic-mode,aquatic-mode,6
 10440,miraidon-glide-mode,glide-mode,6
+10441,ursaluna-bloodmoon,bloodmoon,1
+10442,ogerpon-wellspring-mask,wellspring-mask,4
+10443,ogerpon-hearthflame-mask,hearthflame-mask,4
+10444,ogerpon-cornerstone-mask,cornerstone-mask,4
